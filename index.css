@@ -1,0 +1,30 @@
+button{
+    height: 100px;
+    width: 100px;
+    border:2px solid red;
+    pointer:center;
+    padding: 10px;
+    margin: 10px;
+}
+#coral{
+    background-color : coral ;
+}
+
+#pink{
+    background-color : pink ;
+}
+
+#red{
+    background-color : red ;
+}
+#aqua{
+    background-color : aqua ;
+}
+
+#grey{
+    background-color : grey ;
+}
+
+#black{
+    background-color : black ;
+}
